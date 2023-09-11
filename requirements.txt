@@ -1,4 +1,4 @@
-
+python-dotenv
 aiohttp
 openai
 https://github.com/New-dev0/Telethon/archive/diamond.zip
